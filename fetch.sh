@@ -7,6 +7,6 @@ do
     then
         echo -e "$pag FAIL\n"
     else
-        echo -e "$pag $salida\n"
+        echo -e "$pag OK\n"
     fi
 done
