@@ -1,0 +1,2 @@
+2024/03/02 16:51:48 - Hostname: kali - CPU 12% - RAM: 48.50% - Disk: %s 33%
+2024/03/02 16:52:00 - Hostname: kali - CPU 4.4% - RAM: 48.65% - Disk: %s 33%
